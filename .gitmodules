@@ -1,6 +1,0 @@
-[submodule "test_submodule"]
-	path = test_submodule
-	url = https://github.com/amirsed76/test_submodule.git
-[submodule "tree2"]
-	path = test_submodule/tree2
-	url = https://github.com/amirsed76/test_submodule.git/tree2
